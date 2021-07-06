@@ -14,12 +14,12 @@
     <bytecodeTargetLevel>
       <module name="basic-demo" target="1.7" />
       <module name="spring-boot-mysql-demo" target="1.8" />
-      <module name="spring-boot-practice" target="1.8" />
+      <module name="spring-boot-practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="basic-demo" options="-parameters" />
+      <module name="basic-demo" options="" />
       <module name="spring-boot-mysql-demo" options="-parameters" />
     </option>
   </component>
